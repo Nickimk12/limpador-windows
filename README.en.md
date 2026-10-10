@@ -33,7 +33,7 @@ A graphical program that cleans temporary files and caches on **Windows 10 and 1
 ### Option 1: download the program (recommended)
 
 1. Go to the [**Releases**](../../releases) tab of this repository.
-2. Download the file `arquivos_temporarios_windows.exe`.
+2. Download the file `arquivos_temporarios_windows.exe`
 3. Double-click it and allow it to run as Administrator.
 4. Click **Analisar de novo** ("Analyze again"), check what you want to clean and click **Limpar selecionados** ("Clean selected").
 
@@ -69,7 +69,7 @@ The file will be created in the `dist` folder.
 
 ## Found a problem?
 
-Open an [Issue](../../issues) with your Windows version, what happened and, if available, the error message or the contents of `limpador_log.txt`.
+Open an [Issue](../../issues) with your Windows version, what happened and, if available, the error message or the contents of `limpador_log.txt`
 
 ## License
 
