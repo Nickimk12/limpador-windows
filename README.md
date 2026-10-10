@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # Limpador de Arquivos Temporários para Windows
 
 Programa com interface gráfica para limpar arquivos temporários e caches no **Windows 10 e 11**, feito em Python (tkinter). Mostra quanto espaço será liberado **antes** de apagar qualquer coisa.
